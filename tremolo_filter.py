@@ -4,8 +4,8 @@
 # Date: November 19, 2018
 # Assignment Number: 3
 # Program Description: This program read the PCM formatted mystery.dat file
-#						as input and applies tremolo filter and writes the
-#						output to out.dat as PCM formatted file.
+#			as input and applies tremolo filter and writes the
+#			output to tremolo.dat as PCM formatted file.
 
 import pandas as pd
 import numpy as np
